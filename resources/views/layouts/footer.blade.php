@@ -79,7 +79,7 @@
                                      <span class="f-icon mr-20"><i class="far fa-envelope"></i></span>
                                      hexaforgetechnologies
                                      <div class="">
-                                        @gmail.com <br>
+                                         @gmail.com <br>
                                      </div>
                                  </li>
                                  <li>
@@ -108,12 +108,13 @@
                                          href="#"><i class="fab fa-twitter"></i></a>
                                  </li>
                                  <li class="d-inline-block">
-                                     <a class="youtube-color text-center pr-15 d-inline-block transition-3"
-                                         href="#"><i class="fab fa-youtube"></i></a>
+                                     <a class="linkedin-color text-center pr-15 d-inline-block transition-3"
+                                         href="#"><i class="fab fa-linkedin"></i></a>
                                  </li>
                                  <li class="d-inline-block">
                                      <a class="instagram-color text-center d-inline-block transition-3"
-                                         href="#"><i class="fab fa-instagram"></i></a>
+                                         href="https://www.instagram.com/hexaforgetechnologies/?igsh=NXRncW1yc2RlaWxk"><i
+                                             class="fab fa-instagram"></i></a>
                                  </li>
                              </ul><!-- social-link -->
                          </div><!-- /col -->

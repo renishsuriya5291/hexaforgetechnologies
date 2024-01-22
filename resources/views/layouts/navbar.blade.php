@@ -225,12 +225,12 @@
                                                     href="#"><i class="fab fa-twitter"></i></a>
                                             </li>
                                             <li class="d-inline-block">
-                                                <a class="youtube-color text-center pr-15 d-inline-block transition-3"
-                                                    href="#"><i class="fab fa-youtube"></i></a>
+                                                <a class="linkedin-color text-center pr-15 d-inline-block transition-3"
+                                                    href="#"><i class="fab fa-linkedin"></i></a>
                                             </li>
                                             <li class="d-inline-block">
                                                 <a class="instagram-color text-center d-inline-block transition-3"
-                                                    href="#"><i class="fab fa-instagram"></i></a>
+                                                    href="linkedin"><i class="fab fa-instagram"></i></a>
                                             </li>
                                         </ul><!-- social-link -->
                                         <div class="d-block d-lg-none pl-3">

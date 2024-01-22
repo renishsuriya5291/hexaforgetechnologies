@@ -267,7 +267,7 @@
                                         </li>
                                         <li class="d-inline-block">
                                             <a class="text-center rounded-circle white-bg d-inline-block transition-3"
-                                                href="#"><i class="fab fa-instagram"></i></a>
+                                                href="https://www.instagram.com/hexaforgetechnologies/?igsh=NXRncW1yc2RlaWxk"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul><!-- /our-team-social-link -->
                                 </div>
@@ -294,7 +294,7 @@
                                         </li>
                                         <li class="d-inline-block">
                                             <a class="text-center rounded-circle white-bg d-inline-block transition-3"
-                                                href="#"><i class="fab fa-instagram"></i></a>
+                                                href="https://www.instagram.com/hexaforgetechnologies/?igsh=NXRncW1yc2RlaWxk"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul><!-- /our-team-social-link -->
                                 </div>
@@ -321,7 +321,7 @@
                                         </li>
                                         <li class="d-inline-block">
                                             <a class="text-center rounded-circle white-bg d-inline-block transition-3"
-                                                href="#"><i class="fab fa-instagram"></i></a>
+                                                href="https://www.instagram.com/hexaforgetechnologies/?igsh=NXRncW1yc2RlaWxk"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul><!-- /our-team-social-link -->
                                 </div>
@@ -348,7 +348,7 @@
                                         </li>
                                         <li class="d-inline-block">
                                             <a class="text-center rounded-circle white-bg d-inline-block transition-3"
-                                                href="#"><i class="fab fa-instagram"></i></a>
+                                                href="https://www.instagram.com/hexaforgetechnologies/?igsh=NXRncW1yc2RlaWxk"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul><!-- /our-team-social-link -->
                                 </div>
