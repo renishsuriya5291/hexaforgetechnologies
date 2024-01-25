@@ -7,11 +7,10 @@
                      <div class="col-xl-5 col-lg-4  col-md-12  col-sm-12 col-12">
                          <div class="footer-widget f-subscriber-area pb-30 mt-15 pr-100">
                              <div class="f-logo">
-                                 <img src="images/logo/logo.png" alt="evalo">
+                                 <img src="images/logo/logo.png" alt="HexaForge">
                              </div><!-- /f-logo -->
                              <div class="footer-subscribe mt-25">
-                                 <p>Fectetur adipisicing elit, sed do eius mod tempor Lorem ipsum dolor sit amet, con
-                                     sectetur adipisicing elitt ut labore</p>
+                                 <p>HexaForge Technologies pioneers innovation, offering bespoke solutions in web/app development, UI/UX, machine learning, and graphic design for business excellence.</p>
                                  <form action="#">
                                      <div class="subscribe-info mt-22 position-relative">
                                          <input

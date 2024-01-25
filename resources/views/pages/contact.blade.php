@@ -50,7 +50,7 @@
 
 
         <!-- ====== contact-area-start
-        ==================================================== -->
+                        ==================================================== -->
         <div id="contact" class="contact-area mb-165 mt-155">
             <div class="contact-wrapper position-relative">
                 <div class="container">
@@ -71,8 +71,8 @@
                                         </div><!-- /contact-icon -->
                                         <div class="contact-text">
                                             <h4 class="f-700 mb-2">Location</h4>
-                                            <p class="secondary-color mb-0">20 Bordeshi, Amin Bazar
-                                                <br> Savar, Dhaka - 1348
+                                            <p class="secondary-color mb-0">Mota Varachha, Surat
+                                                <br> Gujarat, India
                                             </p>
                                         </div>
                                     </li><!-- /contact-location -->
@@ -88,8 +88,6 @@
                                             <p class="mb-0">
                                                 <a class="secondary-color2 primary-hover d-block"
                                                     href="#">hexaforgetechnologies@gmail.com</a>
-                                                <a class="secondary-color2 primary-hover d-block"
-                                                    href="#">sales@evalo.com</a>
                                             </p>
                                         </div>
                                     </li><!-- /contact-email -->
@@ -103,8 +101,8 @@
                                         <div class="contact-text">
                                             <h4 class="f-700 mb-2">Phone</h4>
                                             <p class="mb-0">
-                                                <a class="secondary-color2 primary-hover d-block" href="#">+123 456
-                                                    7890</a>
+                                                <a class="secondary-color2 primary-hover d-block" href="#">+91 78744
+                                                    67710</a>
                                             </p>
                                         </div>
                                     </li><!-- /contact-phone -->
@@ -116,11 +114,10 @@
                                 <div class="contact-form">
                                     <div class="title px-md-5 px-lg-0 text-md-center text-lg-left">
                                         <h3 class="f-700 mb-40">Drop us a line</h3>
-                                        <p class="mb-20">Phasellus seiusmod tempor incididunt ut labore et dolore magna
-                                            aliqua. Ut enim ad minim veniam</p>
+                                        <p class="mb-20">Have questions or ideas? Drop us a line – we're here to turn your
+                                            visions into reality.</p>
                                     </div><!-- /title -->
-                                    <form action="https://HexaForgeTechnologies.com/demo/evalo/evalo-html-template/php/mail.php"
-                                        method="POST" id="contact-form">
+                                    <form id="contact-form">
                                         <div class="contact-info text-md-center text-lg-left pt-20">
                                             <div class="row">
                                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb-15"
@@ -163,7 +160,6 @@
                                             </div>
                                         </div>
                                     </form>
-                                    <p class="form-message mt-20"></p>
                                 </div><!-- /contact-form -->
                             </div><!-- /contact-wrapper -->
                         </div><!-- /col -->
@@ -187,8 +183,9 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-xl-9 col-lg-9  col-md-12 col-sm-12 col-12">
                             <div class="banner-content">
-                                <h4 class="f-700 mb-18">Evalo helps you to grow fast</h4>
-                                <p class="mb-0">Bolor sit amet cons ectetur adipisic</p>
+                                <h4 class="f-700 mb-18">HexaForge helps you to grow fast</h4>
+                                <p class="mb-0">HexaForge accelerates your growth with cutting-edge solutions and a
+                                    dynamic team dedicated to propelling your success forward swiftly.</p>
                             </div><!-- /work-banner-content -->
                         </div><!-- /col -->
                         <div class="col-xl-3 col-lg-3  col-md-12 col-sm-12 col-12">
@@ -206,4 +203,52 @@
 
 
     </main>
+    <!-- Include jQuery (you can replace this with your preferred method) -->
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            // Intercept the form submission
+            $('#contact-form').submit(function (e) {
+                e.preventDefault(); // Prevent the default form submission
+    
+                // Get form data
+                var formData = {
+                    to: 'hexaforgetechnologies@gmail.com', // Replace with your intended recipient
+                    subject: 'Quote',
+                    message: $('#inputMessage').val(),
+                    name: $('#inputName').val(),
+                    email: $('#inputEmail').val(),
+                    phone: $('#inputPhone').val(),
+                };
+    
+                // Make an AJAX request to the Laravel API
+                $.ajax({
+                    type: 'POST',
+                    url: 'https://hexaforgetechnologies.com/send-mail',
+                    data: JSON.stringify(formData),
+                    contentType: 'application/json',
+                    success: function (data) {
+                        console.log('Email sent successfully:', data);
+    
+                        // Clear form fields
+                        $('#inputMessage').val('');
+                        $('#inputName').val('');
+                        $('#inputEmail').val('');
+                        $('#inputPhone').val('');
+    
+                        // Display a thank you message
+                        alert('Thank you for contacting our team! We will contact you as soon as possible.');
+    
+                        // You can add further actions here, like displaying a success message
+                    },
+                    error: function (error) {
+                        console.error('Error sending email:', error);
+                        // Handle the error, e.g., display an error message to the user
+                    }
+                });
+            });
+        });
+    </script>
+    
 @endsection

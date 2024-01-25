@@ -58,11 +58,8 @@
                             <div class="title">
                                 <span class="theme-color f-700">Learn more about us</span>
                                 <h3 class="f-700 mb-30">World leading agency that work for all</h3>
-                                <p class="pb-10">Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                                    enim ad minim veniam</p>
-                                <p>Bole nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                                    aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                                    pariatur. Ex</p>
+                                <p class="pb-10">HexaForge Technologies is an embodiment of visionary leadership, where innovation meets expertise.</p>
+                                <p>Our founder, a seasoned professional, has cultivated a dynamic environment dedicated to shaping the future of technology solutions. At HexaForge, we believe in transcending boundaries and redefining possibilities.</p>
                             </div>
                             <div class="my-btn mt-47" data-aos="fade-up" data-aos-duration="2000">
                                 <a href="/about" class="btn theme-bg text-capitalize f-18 f-700">view More</a>
@@ -110,28 +107,26 @@
                                     <div
                                         class="home3-single-facts about-us-fact-wrapper white-bg text-center pt-45 pb-60 pl-40 pr-40 mb-30">
                                         <div class="d-flex align-items-center justify-content-center">
-                                            <span class="theme-color f-700 d-inline-block counter">20</span>
+                                            <span class="theme-color f-700 d-inline-block counter">40</span>
                                             <span class="per theme-color d-inline-block f-700">+</span>
                                         </div>
-                                        <p class="black-color text-center f-700 mb-0">World Famous
-                                            Products</p>
+                                        <p class="black-color text-center f-700 mb-0">Our Client</p>
                                     </div> <!-- /home3-single-facts -->
 
                                     <div
                                         class="home3-single-facts about-us-fact-wrapper white-bg text-center pt-45 pb-60 pl-40 pr-40 mb-30">
                                         <div class="d-flex align-items-center justify-content-center">
-                                            <span class="theme-color f-700 d-inline-block counter">5</span>
-                                            <span class="theme-color d-inline-block f-700">M</span>
+                                            <span class="theme-color f-700 d-inline-block counter">3.4</span>
+                                            <span class="theme-color d-inline-block f-700">K+</span>
                                         </div>
-                                        <p class="black-color text-center f-700 mb-0">User
-                                            Community</p>
+                                        <p class="black-color text-center f-700 mb-0">Projects</p>
                                     </div> <!-- /home3-single-facts -->
                                 </div><!-- /col -->
                                 <div class="col-xl-6  col-lg-6  col-md-6  col-sm-6 col-12 ">
                                     <div
                                         class="home3-single-facts about-us-fact-wrapper home3-single-facts-margin white-bg text-center pt-45 pb-60 pl-40 pr-40 mb-30 mt-60">
                                         <div class="d-flex align-items-center justify-content-center">
-                                            <span class="theme-color f-700 d-inline-block counter">50</span>
+                                            <span class="theme-color f-700 d-inline-block counter">15</span>
                                             <span class="per theme-color d-inline-block f-700">+</span>
                                         </div>
                                         <p class="black-color text-center f-700 mb-0">Operating
@@ -140,11 +135,10 @@
                                     <div
                                         class="home3-single-facts about-us-fact-wrapper white-bg text-center pt-45 pb-60 pl-40 pr-40 mb-30">
                                         <div class="d-flex align-items-center justify-content-center">
-                                            <span class="theme-color f-700 d-inline-block counter">2</span>
-                                            <span class="per theme-color d-inline-block f-700">B</span>
+                                            <span class="theme-color f-700 d-inline-block counter">87</span>
+                                            <span class="per theme-color d-inline-block f-700">%</span>
                                         </div>
-                                        <p class="black-color text-center f-700 mb-0">Yearly
-                                            Revenue</p>
+                                        <p class="black-color text-center f-700 mb-0">Again Hired By Same Client Ratio</p>
                                     </div> <!-- /home3-single-facts -->
                                 </div><!-- /col -->
                             </div><!-- /row -->
@@ -153,8 +147,7 @@
                             <div class="title">
                                 <span class="theme-color f-700">Learn more about us</span>
                                 <h3 class="f-700 mb-30">Numbers always tells the truth</h3>
-                                <p class="pb-10">Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                                    enim ad minim veniam</p>
+                                <p class="pb-10">Numbers unveil reality, anchoring our commitment to transparency, reliability, and unwavering dedication in every endeavor.</p>
                             </div>
                         </div><!-- /col -->
                     </div><!-- /row -->
@@ -173,8 +166,7 @@
                             <div class="title">
                                 <span class="theme-color f-700">Our Speciality</span>
                                 <h3 class="f-700 mb-30">Why people treat us as best</h3>
-                                <p class="pb-10">Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                                    enim ad minim veniam llamco laboris nisi ut aliquip ex ea commodo</p>
+                                <p class="pb-10">People recognize us as the best due to our unwavering commitment to excellence, innovative solutions, and unparalleled dedication to client success.</p>
                             </div>
                         </div><!-- /Speciality-left-content -->
                     </div><!-- /col -->
@@ -188,7 +180,7 @@
                                         </div><!-- /ser-icon -->
                                         <div class="service-text">
                                             <h6 class="f-700 mb-15">Graphical Interface</h6>
-                                            <p>A itation ullamc eiusmod dunt enim ad minim veniam nona sopne gora tomar</p>
+                                            <p>A sleek and intuitive graphical interface enhances user experiences, ensuring seamless interaction and visual appeal for optimal engagement.</p>
                                         </div>
                                     </div><!-- /single-service-content -->
                                 </div><!-- /col -->
@@ -199,7 +191,7 @@
                                         </div><!-- /ser-icon -->
                                         <div class="service-text">
                                             <h6 class="f-700 mb-15">Command Line Coding</h6>
-                                            <p>A itation ullamc eiusmod dunt enim ad minim veniam nona sopne gora tomar</p>
+                                            <p>Command line coding empowers efficient and precise control, enabling developers to streamline tasks and enhance productivity through text-based interactions.</p>
                                         </div>
                                     </div><!-- /single-service-content -->
                                 </div><!-- /col -->
@@ -211,7 +203,7 @@
                                         </div><!-- /ser-icon -->
                                         <div class="service-text">
                                             <h6 class="f-700 mb-15">Super Fast Servers</h6>
-                                            <p>A itation ullamc eiusmod dunt enim ad minim veniam nona sopne gora tomar</p>
+                                            <p>Our super-fast servers ensure swift and reliable performance, delivering seamless experiences for users and optimal efficiency for businesses.</p>
                                         </div>
                                     </div><!-- /single-service-content -->
                                 </div><!-- /col -->
@@ -222,7 +214,7 @@
                                         </div><!-- /ser-icon -->
                                         <div class="service-text">
                                             <h6 class="f-700 mb-15">World Class Support</h6>
-                                            <p>A itation ullamc eiusmod dunt enim ad minim veniam nona sopne gora tomar</p>
+                                            <p>Experience world-class support that goes beyond expectations, providing timely assistance and expert guidance to ensure your success and satisfaction.</p>
                                         </div>
                                     </div><!-- /single-service-content -->
                                 </div><!-- /col -->
@@ -245,12 +237,11 @@
                             <div class="title text-center">
                                 <span class="theme-color f-700">Team Members</span>
                                 <h4 class="f-700 mb-30">Our Amazing Team</h4>
-                                <p>Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                                    veniam</p>
+                                <p>Our incredible team at HexaForge, experts in web, app development, UI/UX, image processing, computer vision, machine learning, and graphic design, forms the core of our success. With diverse skills and a passion for innovation, they bring visions to life, delivering solutions that surpass expectations and redefine excellence.</p>
                             </div><!-- /title -->
                         </div><!-- /col -->
                     </div>
-                    <div class="row our-team-wrapper-margin pt-55">
+                    {{-- <div class="row our-team-wrapper-margin pt-55">
                         <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                             <div class="our-team-wrapper position-relative mb-40">
                                 <div class="single-team-img position-relative z-index1">
@@ -355,11 +346,11 @@
                                 <div
                                     class="our-team-info transition5 position-absolute left-0 right-0 white-bg pl-25 pt-90 pb-15 pr-25">
                                     <span class="secondary-color">HR Manager</span>
-                                    <h3 class="mt-1 f-700">Sarah Palmar</h3>
+                                    <h3 class="mt-1 f-700">Renish Suriya</h3>
                                 </div><!-- /our-team-info -->
                             </div><!-- /our-team-wrapper -->
                         </div><!-- /col -->
-                    </div><!-- /row -->
+                    </div><!-- /row --> --}}
                 </div><!-- /container -->
             </div><!-- /our-team-bg -->
         </div>
@@ -374,8 +365,7 @@
                         <div class="title text-center">
                             <span class="theme-color f-700">Working with big names</span>
                             <h3 class="f-700 mb-30">Our Trusted Partners</h3>
-                            <p class="pb-10">Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                                enim ad minim veniam</p>
+                            <p class="pb-10">At HexaForge, our success is woven into a tapestry of collaboration with trusted partners, creating a synergy that amplifies innovation and propels businesses towards new heights.</p>
                         </div>
                     </div><!-- /col -->
                 </div><!-- /row -->
@@ -452,8 +442,8 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-xl-9 col-lg-9  col-md-12 col-sm-12 col-12">
                             <div class="banner-content">
-                                <h4 class="f-700 mb-18">Evalo helps you to grow fast</h4>
-                                <p class="mb-0">Bolor sit amet cons ectetur adipisic</p>
+                                <h4 class="f-700 mb-18">HexaForge helps you to grow fast</h4>
+                                <p class="mb-0">HexaForge accelerates your growth with cutting-edge solutions and a dynamic team dedicated to propelling your success forward swiftly.</p>
                             </div><!-- /work-banner-content -->
                         </div><!-- /col -->
                         <div class="col-xl-3 col-lg-3  col-md-12 col-sm-12 col-12">

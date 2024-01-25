@@ -13,8 +13,8 @@
                         <div class="col-xl-10  col-lg-10  col-md-11  col-sm-10 col-12 d-flex align-items-center">
                             <div class="slider-content text-center mt-190 pr-0">
                                 <span class="f-700 theme-color d-block pb-1">Hello,</span>
-                                <h1 class="f-700 pb-22 pr-0">We are <span class="theme-color">Evalo!</span> A creative
-                                    design agency based on Dhaka, Bangladesh. We design for people everywhere.</h1>
+                                <h1 class="f-700 pb-22 pr-0">We are <span class="theme-color">HexaForge!</span> A creative
+                                    design agency based on Surat. We design for people everywhere.</h1>
                             </div>
                         </div><!-- /col -->
                     </div><!-- /row -->
@@ -25,7 +25,7 @@
 
 
         <!-- ====== portfolio-area-start
-            ==================================================== -->
+                ==================================================== -->
         <div class="portfolio-area home6 home7 home8 over-hidden  portfolio-modal-content pb-170">
             <div class="portfolio-wrapper position-relative">
                 <div class="container">
@@ -35,16 +35,16 @@
                                 <button data-filter="*" class="active">All</button>
                                 <button data-filter=".design">Web Design</button>
                                 <button data-filter=".dev">Development</button>
-                                <button data-filter=".creative-design">Creative Design </button>
-                                <button data-filter=".marketing">Marketing</button>
+                                <button data-filter=".creative-design">App Design </button>
+                                <button style="display: none" data-filter=".marketing">Marketing</button>
                             </div><!-- /home6-portfolio-menu -->
                         </div><!-- /col -->
                     </div><!-- /row -->
 
                     <div class="row portfolio grid">
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev creative-design">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img1.jpg" alt="image">
+                                <img class="w-100" src="images/ui1.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p1"><i class="far fa-external-link-alt"></i>
@@ -195,9 +195,9 @@
                             <!-- Modal 1 end -->
 
                         </div><!-- /col -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev design marketing">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img2.jpg" alt="image">
+                                <img class="w-100" src="images/ui2.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p2"><i class="far fa-external-link-alt"></i>
@@ -350,9 +350,9 @@
                             <!-- Modal 2 end -->
 
                         </div><!-- /col -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img3.jpg" alt="image">
+                                <img class="w-100" src="images/ui3.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p3"><i class="far fa-external-link-alt"></i>
@@ -505,9 +505,9 @@
                             <!-- Modal 3 end -->
 
                         </div><!-- /col -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design marketing">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img4.jpg" alt="image">
+                                <img class="w-100" src="images/ui4.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p4"><i class="far fa-external-link-alt"></i>
@@ -660,10 +660,9 @@
                             <!-- Modal 4 end -->
 
                         </div><!-- /col -->
-                        <div
-                            class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev design creative-design marketing">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img5.jpg" alt="image">
+                                <img class="w-100" src="images/ui5.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p5"><i class="far fa-external-link-alt"></i>
@@ -816,9 +815,9 @@
                             <!-- Modal 6 end -->
 
                         </div><!-- /col -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev creative-design">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img6.jpg" alt="image">
+                                <img class="w-100" src="images/ui6.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p6"><i class="far fa-external-link-alt"></i>
@@ -968,9 +967,9 @@
                             </div>
                             <!-- Modal 5 end -->
                         </div><!-- /col -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev marketing">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img8.jpg" alt="image">
+                                <img class="w-100" src="images/ui7.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p8"><i class="far fa-external-link-alt"></i>
@@ -1120,9 +1119,9 @@
                             </div>
                             <!-- Modal 5 end -->
                         </div><!-- /col -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design creative-design">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img7.jpg" alt="image">
+                                <img class="w-100" src="images/ui8.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p7"><i class="far fa-external-link-alt"></i>
@@ -1275,9 +1274,9 @@
                             <!-- Modal 4 end -->
 
                         </div><!-- /col -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev design creative-design ">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
-                                <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg" alt="image">
+                                <img class="w-100" src="images/ui9.PNG" alt="image">
                                 <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
@@ -1430,6 +1429,1254 @@
                             <!-- Modal 6 end -->
 
                         </div><!-- /col -->
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
+                            <div class="single-portfolio position-relative over-hidden mb-30">
+                                <img class="w-100" src="images/home_1.PNG" alt="image">
+                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                    <span class="theme-color d-inline-block" data-toggle="modal"
+                                        data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
+                                    </span>
+                                </div><!-- /port-content -->
+                                <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
+                                    <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
+                                    <h3 class="text-white">When the musics over turn off the light</h3>
+                                </div>
+                            </div><!-- /single-prot -->
+
+                            <!-- Modal 6 start -->
+                            <div class="modal fade" id="exampleModal-p9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModal-p9" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="close-icon float-right pt-10 pr-10">
+                                            <button type="button" class="close d-inline-block" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <span aria-hidden="true"><i class="fa fa-times"></i></span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-content border-0">
+                                            <div class="modal-body pl-50 pr-50 pt-10 pb-20">
+                                                <div class="blog-modal-img">
+                                                    <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg"
+                                                        alt="blog post image 02">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                        <div class="content-wrapper">
+                                                            <h2 class="modal-title f-700">eThemeStudio Keyword Tool
+                                                            </h2>
+                                                            <p>
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum
+                                                                dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim
+                                                                ad minim veniam, quis nostrud exercitation ullamco laboris
+                                                                nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                            <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                                                Dignissimos laudantium fuga molestiae, aut eius minus
+                                                                reprehenderit.
+                                                            </p>
+                                                            <p class="mb-0">
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                    <div class="col-xl-5 col-lg-5  col-md-12 col-sm-12 col-12">
+                                                        <div
+                                                            class="meta-wrapper primary-bg mt-60 pt-40 pb-45 pr-20 pl-45 mt-40 mb-10">
+                                                            <ul class="item-meta">
+                                                                <li>
+                                                                    Project Type : <span
+                                                                        class="pl-2 black-color f-700">Graphic
+                                                                        Design</span>
+                                                                </li>
+                                                                <li>
+                                                                    Clien : <span
+                                                                        class="pl-2 black-color f-700 f-poppins">Juwel
+                                                                        Khan</span>
+                                                                </li>
+                                                                <li>
+                                                                    Duration :<span class="pl-2 black-color f-700">2
+                                                                        Weeks</span>
+                                                                </li>
+                                                                <li>
+                                                                    Task : <span class="pl-2 black-color f-700">UI/UX,
+                                                                        Frontend</span>
+                                                                </li>
+                                                                <li>
+                                                                    Budget : <span
+                                                                        class="pl-2 black-color f-700">$2000</span>
+                                                                </li>
+                                                            </ul>
+                                                            <a href="#"
+                                                                class="btn position-relative over-hidden text-white theme-bg theme-border2 text-uppercase mt-20 pt-2 pb-2">View
+                                                                Live</a>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                </div><!-- /row -->
+                                                <div class="pro-modal-footer mt-30 mb-45">
+                                                    <div class="row align-items-center justify-content-md-between">
+                                                        <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                            <div class="modal-tags d-sm-flex align-items-center pt-25">
+                                                                <h6
+                                                                    class="primary-font-family mb-0 pr-15 black-color f-700">
+                                                                    Tags :</h6>
+                                                                <ul class="tag-list">
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Web Design</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Social Media</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Product</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                        <div class="col-xl-5 col-lg-5  col-md-12 col-sm-10 col-12">
+                                                            <div
+                                                                class="pro-modal-social-link d-flex align-items-center justify-content-lg-end pt-25">
+                                                                <h6
+                                                                    class="primary-font-family pr-15 f-700 mb-0 black-color">
+                                                                    Share :</h6>
+                                                                <ul class="social-link text-md-right">
+                                                                    <li class="d-inline-block">
+                                                                        <a class="facebook-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-facebook-f"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="twitter-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-twitter"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="google-plus-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-google-plus-g"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="linkedin-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-linkedin-in"></i></a>
+                                                                    </li>
+                                                                </ul><!-- social-link -->
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                    </div> <!-- .row -->
+                                                </div>
+                                            </div><!-- /modal-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal 6 end -->
+
+                        </div><!-- /col -->
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
+                            <div class="single-portfolio position-relative over-hidden mb-30">
+                                <img class="w-100" src="images/uiui.png" alt="image">
+                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                    <span class="theme-color d-inline-block" data-toggle="modal"
+                                        data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
+                                    </span>
+                                </div><!-- /port-content -->
+                                <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
+                                    <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
+                                    <h3 class="text-white">When the musics over turn off the light</h3>
+                                </div>
+                            </div><!-- /single-prot -->
+
+                            <!-- Modal 6 start -->
+                            <div class="modal fade" id="exampleModal-p9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModal-p9" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="close-icon float-right pt-10 pr-10">
+                                            <button type="button" class="close d-inline-block" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <span aria-hidden="true"><i class="fa fa-times"></i></span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-content border-0">
+                                            <div class="modal-body pl-50 pr-50 pt-10 pb-20">
+                                                <div class="blog-modal-img">
+                                                    <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg"
+                                                        alt="blog post image 02">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                        <div class="content-wrapper">
+                                                            <h2 class="modal-title f-700">eThemeStudio Keyword Tool
+                                                            </h2>
+                                                            <p>
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum
+                                                                dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim
+                                                                ad minim veniam, quis nostrud exercitation ullamco laboris
+                                                                nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                            <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                                                Dignissimos laudantium fuga molestiae, aut eius minus
+                                                                reprehenderit.
+                                                            </p>
+                                                            <p class="mb-0">
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                    <div class="col-xl-5 col-lg-5  col-md-12 col-sm-12 col-12">
+                                                        <div
+                                                            class="meta-wrapper primary-bg mt-60 pt-40 pb-45 pr-20 pl-45 mt-40 mb-10">
+                                                            <ul class="item-meta">
+                                                                <li>
+                                                                    Project Type : <span
+                                                                        class="pl-2 black-color f-700">Graphic
+                                                                        Design</span>
+                                                                </li>
+                                                                <li>
+                                                                    Clien : <span
+                                                                        class="pl-2 black-color f-700 f-poppins">Juwel
+                                                                        Khan</span>
+                                                                </li>
+                                                                <li>
+                                                                    Duration :<span class="pl-2 black-color f-700">2
+                                                                        Weeks</span>
+                                                                </li>
+                                                                <li>
+                                                                    Task : <span class="pl-2 black-color f-700">UI/UX,
+                                                                        Frontend</span>
+                                                                </li>
+                                                                <li>
+                                                                    Budget : <span
+                                                                        class="pl-2 black-color f-700">$2000</span>
+                                                                </li>
+                                                            </ul>
+                                                            <a href="#"
+                                                                class="btn position-relative over-hidden text-white theme-bg theme-border2 text-uppercase mt-20 pt-2 pb-2">View
+                                                                Live</a>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                </div><!-- /row -->
+                                                <div class="pro-modal-footer mt-30 mb-45">
+                                                    <div class="row align-items-center justify-content-md-between">
+                                                        <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                            <div class="modal-tags d-sm-flex align-items-center pt-25">
+                                                                <h6
+                                                                    class="primary-font-family mb-0 pr-15 black-color f-700">
+                                                                    Tags :</h6>
+                                                                <ul class="tag-list">
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Web Design</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Social Media</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Product</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                        <div class="col-xl-5 col-lg-5  col-md-12 col-sm-10 col-12">
+                                                            <div
+                                                                class="pro-modal-social-link d-flex align-items-center justify-content-lg-end pt-25">
+                                                                <h6
+                                                                    class="primary-font-family pr-15 f-700 mb-0 black-color">
+                                                                    Share :</h6>
+                                                                <ul class="social-link text-md-right">
+                                                                    <li class="d-inline-block">
+                                                                        <a class="facebook-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-facebook-f"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="twitter-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-twitter"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="google-plus-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-google-plus-g"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="linkedin-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-linkedin-in"></i></a>
+                                                                    </li>
+                                                                </ul><!-- social-link -->
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                    </div> <!-- .row -->
+                                                </div>
+                                            </div><!-- /modal-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal 6 end -->
+
+                        </div><!-- /col -->
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
+                            <div class="single-portfolio position-relative over-hidden mb-30">
+                                <img class="w-100" src="images/movie.PNG" alt="image">
+                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                    <span class="theme-color d-inline-block" data-toggle="modal"
+                                        data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
+                                    </span>
+                                </div><!-- /port-content -->
+                                <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
+                                    <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
+                                    <h3 class="text-white">When the musics over turn off the light</h3>
+                                </div>
+                            </div><!-- /single-prot -->
+
+                            <!-- Modal 6 start -->
+                            <div class="modal fade" id="exampleModal-p9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModal-p9" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="close-icon float-right pt-10 pr-10">
+                                            <button type="button" class="close d-inline-block" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <span aria-hidden="true"><i class="fa fa-times"></i></span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-content border-0">
+                                            <div class="modal-body pl-50 pr-50 pt-10 pb-20">
+                                                <div class="blog-modal-img">
+                                                    <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg"
+                                                        alt="blog post image 02">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                        <div class="content-wrapper">
+                                                            <h2 class="modal-title f-700">eThemeStudio Keyword Tool
+                                                            </h2>
+                                                            <p>
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum
+                                                                dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim
+                                                                ad minim veniam, quis nostrud exercitation ullamco laboris
+                                                                nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                            <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                                                Dignissimos laudantium fuga molestiae, aut eius minus
+                                                                reprehenderit.
+                                                            </p>
+                                                            <p class="mb-0">
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                    <div class="col-xl-5 col-lg-5  col-md-12 col-sm-12 col-12">
+                                                        <div
+                                                            class="meta-wrapper primary-bg mt-60 pt-40 pb-45 pr-20 pl-45 mt-40 mb-10">
+                                                            <ul class="item-meta">
+                                                                <li>
+                                                                    Project Type : <span
+                                                                        class="pl-2 black-color f-700">Graphic
+                                                                        Design</span>
+                                                                </li>
+                                                                <li>
+                                                                    Clien : <span
+                                                                        class="pl-2 black-color f-700 f-poppins">Juwel
+                                                                        Khan</span>
+                                                                </li>
+                                                                <li>
+                                                                    Duration :<span class="pl-2 black-color f-700">2
+                                                                        Weeks</span>
+                                                                </li>
+                                                                <li>
+                                                                    Task : <span class="pl-2 black-color f-700">UI/UX,
+                                                                        Frontend</span>
+                                                                </li>
+                                                                <li>
+                                                                    Budget : <span
+                                                                        class="pl-2 black-color f-700">$2000</span>
+                                                                </li>
+                                                            </ul>
+                                                            <a href="#"
+                                                                class="btn position-relative over-hidden text-white theme-bg theme-border2 text-uppercase mt-20 pt-2 pb-2">View
+                                                                Live</a>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                </div><!-- /row -->
+                                                <div class="pro-modal-footer mt-30 mb-45">
+                                                    <div class="row align-items-center justify-content-md-between">
+                                                        <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                            <div class="modal-tags d-sm-flex align-items-center pt-25">
+                                                                <h6
+                                                                    class="primary-font-family mb-0 pr-15 black-color f-700">
+                                                                    Tags :</h6>
+                                                                <ul class="tag-list">
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Web Design</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Social Media</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Product</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                        <div class="col-xl-5 col-lg-5  col-md-12 col-sm-10 col-12">
+                                                            <div
+                                                                class="pro-modal-social-link d-flex align-items-center justify-content-lg-end pt-25">
+                                                                <h6
+                                                                    class="primary-font-family pr-15 f-700 mb-0 black-color">
+                                                                    Share :</h6>
+                                                                <ul class="social-link text-md-right">
+                                                                    <li class="d-inline-block">
+                                                                        <a class="facebook-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-facebook-f"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="twitter-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-twitter"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="google-plus-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-google-plus-g"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="linkedin-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-linkedin-in"></i></a>
+                                                                    </li>
+                                                                </ul><!-- social-link -->
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                    </div> <!-- .row -->
+                                                </div>
+                                            </div><!-- /modal-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal 6 end -->
+
+                        </div><!-- /col -->
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
+                            <div class="single-portfolio position-relative over-hidden mb-30">
+                                <img class="w-100" src="images/haha.PNG" alt="image">
+                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                    <span class="theme-color d-inline-block" data-toggle="modal"
+                                        data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
+                                    </span>
+                                </div><!-- /port-content -->
+                                <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
+                                    <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
+                                    <h3 class="text-white">When the musics over turn off the light</h3>
+                                </div>
+                            </div><!-- /single-prot -->
+
+                            <!-- Modal 6 start -->
+                            <div class="modal fade" id="exampleModal-p9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModal-p9" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="close-icon float-right pt-10 pr-10">
+                                            <button type="button" class="close d-inline-block" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <span aria-hidden="true"><i class="fa fa-times"></i></span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-content border-0">
+                                            <div class="modal-body pl-50 pr-50 pt-10 pb-20">
+                                                <div class="blog-modal-img">
+                                                    <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg"
+                                                        alt="blog post image 02">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                        <div class="content-wrapper">
+                                                            <h2 class="modal-title f-700">eThemeStudio Keyword Tool
+                                                            </h2>
+                                                            <p>
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum
+                                                                dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim
+                                                                ad minim veniam, quis nostrud exercitation ullamco laboris
+                                                                nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                            <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                                                Dignissimos laudantium fuga molestiae, aut eius minus
+                                                                reprehenderit.
+                                                            </p>
+                                                            <p class="mb-0">
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                    <div class="col-xl-5 col-lg-5  col-md-12 col-sm-12 col-12">
+                                                        <div
+                                                            class="meta-wrapper primary-bg mt-60 pt-40 pb-45 pr-20 pl-45 mt-40 mb-10">
+                                                            <ul class="item-meta">
+                                                                <li>
+                                                                    Project Type : <span
+                                                                        class="pl-2 black-color f-700">Graphic
+                                                                        Design</span>
+                                                                </li>
+                                                                <li>
+                                                                    Clien : <span
+                                                                        class="pl-2 black-color f-700 f-poppins">Juwel
+                                                                        Khan</span>
+                                                                </li>
+                                                                <li>
+                                                                    Duration :<span class="pl-2 black-color f-700">2
+                                                                        Weeks</span>
+                                                                </li>
+                                                                <li>
+                                                                    Task : <span class="pl-2 black-color f-700">UI/UX,
+                                                                        Frontend</span>
+                                                                </li>
+                                                                <li>
+                                                                    Budget : <span
+                                                                        class="pl-2 black-color f-700">$2000</span>
+                                                                </li>
+                                                            </ul>
+                                                            <a href="#"
+                                                                class="btn position-relative over-hidden text-white theme-bg theme-border2 text-uppercase mt-20 pt-2 pb-2">View
+                                                                Live</a>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                </div><!-- /row -->
+                                                <div class="pro-modal-footer mt-30 mb-45">
+                                                    <div class="row align-items-center justify-content-md-between">
+                                                        <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                            <div class="modal-tags d-sm-flex align-items-center pt-25">
+                                                                <h6
+                                                                    class="primary-font-family mb-0 pr-15 black-color f-700">
+                                                                    Tags :</h6>
+                                                                <ul class="tag-list">
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Web Design</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Social Media</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Product</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                        <div class="col-xl-5 col-lg-5  col-md-12 col-sm-10 col-12">
+                                                            <div
+                                                                class="pro-modal-social-link d-flex align-items-center justify-content-lg-end pt-25">
+                                                                <h6
+                                                                    class="primary-font-family pr-15 f-700 mb-0 black-color">
+                                                                    Share :</h6>
+                                                                <ul class="social-link text-md-right">
+                                                                    <li class="d-inline-block">
+                                                                        <a class="facebook-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-facebook-f"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="twitter-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-twitter"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="google-plus-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-google-plus-g"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="linkedin-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-linkedin-in"></i></a>
+                                                                    </li>
+                                                                </ul><!-- social-link -->
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                    </div> <!-- .row -->
+                                                </div>
+                                            </div><!-- /modal-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal 6 end -->
+
+                        </div><!-- /col -->
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
+                            <div class="single-portfolio position-relative over-hidden mb-30">
+                                <img class="w-100" src="images/codesync.PNG" alt="image">
+                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                    <span class="theme-color d-inline-block" data-toggle="modal"
+                                        data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
+                                    </span>
+                                </div><!-- /port-content -->
+                                <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
+                                    <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
+                                    <h3 class="text-white">When the musics over turn off the light</h3>
+                                </div>
+                            </div><!-- /single-prot -->
+
+                            <!-- Modal 6 start -->
+                            <div class="modal fade" id="exampleModal-p9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModal-p9" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="close-icon float-right pt-10 pr-10">
+                                            <button type="button" class="close d-inline-block" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <span aria-hidden="true"><i class="fa fa-times"></i></span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-content border-0">
+                                            <div class="modal-body pl-50 pr-50 pt-10 pb-20">
+                                                <div class="blog-modal-img">
+                                                    <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg"
+                                                        alt="blog post image 02">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                        <div class="content-wrapper">
+                                                            <h2 class="modal-title f-700">eThemeStudio Keyword Tool
+                                                            </h2>
+                                                            <p>
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum
+                                                                dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim
+                                                                ad minim veniam, quis nostrud exercitation ullamco laboris
+                                                                nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                            <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                                                Dignissimos laudantium fuga molestiae, aut eius minus
+                                                                reprehenderit.
+                                                            </p>
+                                                            <p class="mb-0">
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                    <div class="col-xl-5 col-lg-5  col-md-12 col-sm-12 col-12">
+                                                        <div
+                                                            class="meta-wrapper primary-bg mt-60 pt-40 pb-45 pr-20 pl-45 mt-40 mb-10">
+                                                            <ul class="item-meta">
+                                                                <li>
+                                                                    Project Type : <span
+                                                                        class="pl-2 black-color f-700">Graphic
+                                                                        Design</span>
+                                                                </li>
+                                                                <li>
+                                                                    Clien : <span
+                                                                        class="pl-2 black-color f-700 f-poppins">Juwel
+                                                                        Khan</span>
+                                                                </li>
+                                                                <li>
+                                                                    Duration :<span class="pl-2 black-color f-700">2
+                                                                        Weeks</span>
+                                                                </li>
+                                                                <li>
+                                                                    Task : <span class="pl-2 black-color f-700">UI/UX,
+                                                                        Frontend</span>
+                                                                </li>
+                                                                <li>
+                                                                    Budget : <span
+                                                                        class="pl-2 black-color f-700">$2000</span>
+                                                                </li>
+                                                            </ul>
+                                                            <a href="#"
+                                                                class="btn position-relative over-hidden text-white theme-bg theme-border2 text-uppercase mt-20 pt-2 pb-2">View
+                                                                Live</a>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                </div><!-- /row -->
+                                                <div class="pro-modal-footer mt-30 mb-45">
+                                                    <div class="row align-items-center justify-content-md-between">
+                                                        <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                            <div class="modal-tags d-sm-flex align-items-center pt-25">
+                                                                <h6
+                                                                    class="primary-font-family mb-0 pr-15 black-color f-700">
+                                                                    Tags :</h6>
+                                                                <ul class="tag-list">
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Web Design</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Social Media</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Product</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                        <div class="col-xl-5 col-lg-5  col-md-12 col-sm-10 col-12">
+                                                            <div
+                                                                class="pro-modal-social-link d-flex align-items-center justify-content-lg-end pt-25">
+                                                                <h6
+                                                                    class="primary-font-family pr-15 f-700 mb-0 black-color">
+                                                                    Share :</h6>
+                                                                <ul class="social-link text-md-right">
+                                                                    <li class="d-inline-block">
+                                                                        <a class="facebook-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-facebook-f"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="twitter-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-twitter"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="google-plus-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-google-plus-g"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="linkedin-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-linkedin-in"></i></a>
+                                                                    </li>
+                                                                </ul><!-- social-link -->
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                    </div> <!-- .row -->
+                                                </div>
+                                            </div><!-- /modal-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal 6 end -->
+
+                        </div><!-- /col -->
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
+                            <div class="single-portfolio position-relative over-hidden mb-30">
+                                <img class="w-100" src="images/rtc.png" alt="image">
+                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                    <span class="theme-color d-inline-block" data-toggle="modal"
+                                        data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
+                                    </span>
+                                </div><!-- /port-content -->
+                                <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
+                                    <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
+                                    <h3 class="text-white">When the musics over turn off the light</h3>
+                                </div>
+                            </div><!-- /single-prot -->
+
+                            <!-- Modal 6 start -->
+                            <div class="modal fade" id="exampleModal-p9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModal-p9" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="close-icon float-right pt-10 pr-10">
+                                            <button type="button" class="close d-inline-block" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <span aria-hidden="true"><i class="fa fa-times"></i></span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-content border-0">
+                                            <div class="modal-body pl-50 pr-50 pt-10 pb-20">
+                                                <div class="blog-modal-img">
+                                                    <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg"
+                                                        alt="blog post image 02">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                        <div class="content-wrapper">
+                                                            <h2 class="modal-title f-700">eThemeStudio Keyword Tool
+                                                            </h2>
+                                                            <p>
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum
+                                                                dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim
+                                                                ad minim veniam, quis nostrud exercitation ullamco laboris
+                                                                nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                            <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                                                Dignissimos laudantium fuga molestiae, aut eius minus
+                                                                reprehenderit.
+                                                            </p>
+                                                            <p class="mb-0">
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                    <div class="col-xl-5 col-lg-5  col-md-12 col-sm-12 col-12">
+                                                        <div
+                                                            class="meta-wrapper primary-bg mt-60 pt-40 pb-45 pr-20 pl-45 mt-40 mb-10">
+                                                            <ul class="item-meta">
+                                                                <li>
+                                                                    Project Type : <span
+                                                                        class="pl-2 black-color f-700">Graphic
+                                                                        Design</span>
+                                                                </li>
+                                                                <li>
+                                                                    Clien : <span
+                                                                        class="pl-2 black-color f-700 f-poppins">Juwel
+                                                                        Khan</span>
+                                                                </li>
+                                                                <li>
+                                                                    Duration :<span class="pl-2 black-color f-700">2
+                                                                        Weeks</span>
+                                                                </li>
+                                                                <li>
+                                                                    Task : <span class="pl-2 black-color f-700">UI/UX,
+                                                                        Frontend</span>
+                                                                </li>
+                                                                <li>
+                                                                    Budget : <span
+                                                                        class="pl-2 black-color f-700">$2000</span>
+                                                                </li>
+                                                            </ul>
+                                                            <a href="#"
+                                                                class="btn position-relative over-hidden text-white theme-bg theme-border2 text-uppercase mt-20 pt-2 pb-2">View
+                                                                Live</a>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                </div><!-- /row -->
+                                                <div class="pro-modal-footer mt-30 mb-45">
+                                                    <div class="row align-items-center justify-content-md-between">
+                                                        <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                            <div class="modal-tags d-sm-flex align-items-center pt-25">
+                                                                <h6
+                                                                    class="primary-font-family mb-0 pr-15 black-color f-700">
+                                                                    Tags :</h6>
+                                                                <ul class="tag-list">
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Web Design</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Social Media</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Product</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                        <div class="col-xl-5 col-lg-5  col-md-12 col-sm-10 col-12">
+                                                            <div
+                                                                class="pro-modal-social-link d-flex align-items-center justify-content-lg-end pt-25">
+                                                                <h6
+                                                                    class="primary-font-family pr-15 f-700 mb-0 black-color">
+                                                                    Share :</h6>
+                                                                <ul class="social-link text-md-right">
+                                                                    <li class="d-inline-block">
+                                                                        <a class="facebook-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-facebook-f"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="twitter-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-twitter"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="google-plus-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-google-plus-g"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="linkedin-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-linkedin-in"></i></a>
+                                                                    </li>
+                                                                </ul><!-- social-link -->
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                    </div> <!-- .row -->
+                                                </div>
+                                            </div><!-- /modal-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal 6 end -->
+
+                        </div><!-- /col -->
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
+                            <div class="single-portfolio position-relative over-hidden mb-30">
+                                <img class="w-100" src="images/contact.png" alt="image">
+                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                    <span class="theme-color d-inline-block" data-toggle="modal"
+                                        data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
+                                    </span>
+                                </div><!-- /port-content -->
+                                <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
+                                    <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
+                                    <h3 class="text-white">When the musics over turn off the light</h3>
+                                </div>
+                            </div><!-- /single-prot -->
+
+                            <!-- Modal 6 start -->
+                            <div class="modal fade" id="exampleModal-p9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModal-p9" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="close-icon float-right pt-10 pr-10">
+                                            <button type="button" class="close d-inline-block" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <span aria-hidden="true"><i class="fa fa-times"></i></span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-content border-0">
+                                            <div class="modal-body pl-50 pr-50 pt-10 pb-20">
+                                                <div class="blog-modal-img">
+                                                    <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg"
+                                                        alt="blog post image 02">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                        <div class="content-wrapper">
+                                                            <h2 class="modal-title f-700">eThemeStudio Keyword Tool
+                                                            </h2>
+                                                            <p>
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum
+                                                                dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim
+                                                                ad minim veniam, quis nostrud exercitation ullamco laboris
+                                                                nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                            <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                                                Dignissimos laudantium fuga molestiae, aut eius minus
+                                                                reprehenderit.
+                                                            </p>
+                                                            <p class="mb-0">
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                    <div class="col-xl-5 col-lg-5  col-md-12 col-sm-12 col-12">
+                                                        <div
+                                                            class="meta-wrapper primary-bg mt-60 pt-40 pb-45 pr-20 pl-45 mt-40 mb-10">
+                                                            <ul class="item-meta">
+                                                                <li>
+                                                                    Project Type : <span
+                                                                        class="pl-2 black-color f-700">Graphic
+                                                                        Design</span>
+                                                                </li>
+                                                                <li>
+                                                                    Clien : <span
+                                                                        class="pl-2 black-color f-700 f-poppins">Juwel
+                                                                        Khan</span>
+                                                                </li>
+                                                                <li>
+                                                                    Duration :<span class="pl-2 black-color f-700">2
+                                                                        Weeks</span>
+                                                                </li>
+                                                                <li>
+                                                                    Task : <span class="pl-2 black-color f-700">UI/UX,
+                                                                        Frontend</span>
+                                                                </li>
+                                                                <li>
+                                                                    Budget : <span
+                                                                        class="pl-2 black-color f-700">$2000</span>
+                                                                </li>
+                                                            </ul>
+                                                            <a href="#"
+                                                                class="btn position-relative over-hidden text-white theme-bg theme-border2 text-uppercase mt-20 pt-2 pb-2">View
+                                                                Live</a>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                </div><!-- /row -->
+                                                <div class="pro-modal-footer mt-30 mb-45">
+                                                    <div class="row align-items-center justify-content-md-between">
+                                                        <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                            <div class="modal-tags d-sm-flex align-items-center pt-25">
+                                                                <h6
+                                                                    class="primary-font-family mb-0 pr-15 black-color f-700">
+                                                                    Tags :</h6>
+                                                                <ul class="tag-list">
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Web Design</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Social Media</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Product</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                        <div class="col-xl-5 col-lg-5  col-md-12 col-sm-10 col-12">
+                                                            <div
+                                                                class="pro-modal-social-link d-flex align-items-center justify-content-lg-end pt-25">
+                                                                <h6
+                                                                    class="primary-font-family pr-15 f-700 mb-0 black-color">
+                                                                    Share :</h6>
+                                                                <ul class="social-link text-md-right">
+                                                                    <li class="d-inline-block">
+                                                                        <a class="facebook-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-facebook-f"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="twitter-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-twitter"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="google-plus-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-google-plus-g"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="linkedin-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-linkedin-in"></i></a>
+                                                                    </li>
+                                                                </ul><!-- social-link -->
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                    </div> <!-- .row -->
+                                                </div>
+                                            </div><!-- /modal-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal 6 end -->
+
+                        </div><!-- /col -->
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
+                            <div class="single-portfolio position-relative over-hidden mb-30">
+                                <img class="w-100" src="images/chat.png" alt="image">
+                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                    <span class="theme-color d-inline-block" data-toggle="modal"
+                                        data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
+                                    </span>
+                                </div><!-- /port-content -->
+                                <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
+                                    <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
+                                    <h3 class="text-white">When the musics over turn off the light</h3>
+                                </div>
+                            </div><!-- /single-prot -->
+
+                            <!-- Modal 6 start -->
+                            <div class="modal fade" id="exampleModal-p9" tabindex="-1" role="dialog"
+                                aria-labelledby="exampleModal-p9" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="close-icon float-right pt-10 pr-10">
+                                            <button type="button" class="close d-inline-block" data-dismiss="modal"
+                                                aria-label="Close">
+                                                <span aria-hidden="true"><i class="fa fa-times"></i></span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-content border-0">
+                                            <div class="modal-body pl-50 pr-50 pt-10 pb-20">
+                                                <div class="blog-modal-img">
+                                                    <img class="w-100" src="images/portfolio/home8-portfolio-img9.jpg"
+                                                        alt="blog post image 02">
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                        <div class="content-wrapper">
+                                                            <h2 class="modal-title f-700">eThemeStudio Keyword Tool
+                                                            </h2>
+                                                            <p>
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum
+                                                                dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim
+                                                                ad minim veniam, quis nostrud exercitation ullamco laboris
+                                                                nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                            <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                                                Dignissimos laudantium fuga molestiae, aut eius minus
+                                                                reprehenderit.
+                                                            </p>
+                                                            <p class="mb-0">
+                                                                Duis aute irure dolor in reprehenderit in voluptate velit
+                                                                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                                                                occaecat cupidatat non proident, sunt in culpa qui officia
+                                                                deserunt mollit anim id est laborum.
+                                                            </p>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                    <div class="col-xl-5 col-lg-5  col-md-12 col-sm-12 col-12">
+                                                        <div
+                                                            class="meta-wrapper primary-bg mt-60 pt-40 pb-45 pr-20 pl-45 mt-40 mb-10">
+                                                            <ul class="item-meta">
+                                                                <li>
+                                                                    Project Type : <span
+                                                                        class="pl-2 black-color f-700">Graphic
+                                                                        Design</span>
+                                                                </li>
+                                                                <li>
+                                                                    Clien : <span
+                                                                        class="pl-2 black-color f-700 f-poppins">Juwel
+                                                                        Khan</span>
+                                                                </li>
+                                                                <li>
+                                                                    Duration :<span class="pl-2 black-color f-700">2
+                                                                        Weeks</span>
+                                                                </li>
+                                                                <li>
+                                                                    Task : <span class="pl-2 black-color f-700">UI/UX,
+                                                                        Frontend</span>
+                                                                </li>
+                                                                <li>
+                                                                    Budget : <span
+                                                                        class="pl-2 black-color f-700">$2000</span>
+                                                                </li>
+                                                            </ul>
+                                                            <a href="#"
+                                                                class="btn position-relative over-hidden text-white theme-bg theme-border2 text-uppercase mt-20 pt-2 pb-2">View
+                                                                Live</a>
+                                                        </div>
+                                                    </div><!-- /col -->
+                                                </div><!-- /row -->
+                                                <div class="pro-modal-footer mt-30 mb-45">
+                                                    <div class="row align-items-center justify-content-md-between">
+                                                        <div class="col-xl-7 col-lg-7  col-md-12 col-sm-12 col-12">
+                                                            <div class="modal-tags d-sm-flex align-items-center pt-25">
+                                                                <h6
+                                                                    class="primary-font-family mb-0 pr-15 black-color f-700">
+                                                                    Tags :</h6>
+                                                                <ul class="tag-list">
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Web Design</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Social Media</a>
+                                                                    </li>
+                                                                    <li class="d-inline-block pr-10 f-700">
+                                                                        <a class="secondary-color3 d-block"
+                                                                            href="#">Product</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                        <div class="col-xl-5 col-lg-5  col-md-12 col-sm-10 col-12">
+                                                            <div
+                                                                class="pro-modal-social-link d-flex align-items-center justify-content-lg-end pt-25">
+                                                                <h6
+                                                                    class="primary-font-family pr-15 f-700 mb-0 black-color">
+                                                                    Share :</h6>
+                                                                <ul class="social-link text-md-right">
+                                                                    <li class="d-inline-block">
+                                                                        <a class="facebook-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-facebook-f"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="twitter-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-twitter"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="google-plus-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-google-plus-g"></i></a>
+                                                                    </li>
+                                                                    <li class="d-inline-block">
+                                                                        <a class="linkedin-color text-center pl-15 d-inline-block transition-3"
+                                                                            href="#"><i
+                                                                                class="fab fa-linkedin-in"></i></a>
+                                                                    </li>
+                                                                </ul><!-- social-link -->
+                                                            </div>
+                                                        </div><!-- /col -->
+                                                    </div> <!-- .row -->
+                                                </div>
+                                            </div><!-- /modal-body -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal 6 end -->
+
+                        </div><!-- /col -->
+
+
+
+
                     </div><!-- /row -->
 
                     <div class="row ">

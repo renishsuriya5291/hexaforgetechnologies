@@ -34,12 +34,12 @@
                         <div class="col-xl-6  col-lg-6  col-md-6  col-sm-12 col-12  d-flex align-items-center">
                             <div class="slider-content mt--30 position-relative">
                                 <span class="f-700 theme-color d-block pb-1" data-aos="fade-right" data-aos-duration="2000"
-                                    data-aos-delay="40">We are Evalo</span>
+                                    data-aos-delay="40">We are HexaForge Tech</span>
                                 <h1 class="f-700 pb-22" data-aos="fade-right" data-aos-duration="2000" data-aos-delay="150">
                                     We make your life easier with our creativity</h1>
-                                <p data-aos="fade-right" data-aos-duration="2000">Pore et dolore magna aliqua. Ut enim ad
-                                    minim veniam, quis nostrud exerction</p>
-                                <div class="video-player-btn d-flex align-items-center z-index11 mt-45">
+                                <p data-aos="fade-right" data-aos-duration="2000">Elevate Your Business with HexaForge
+                                    Technologies: Crafting Digital Excellence!</p>
+                                {{-- <div class="video-player-btn d-flex align-items-center z-index11 mt-45">
                                     <a data-fancybox="" href="https://youtu.be/nqye02H_H6I"
                                         class="d-flex align-items-center">
                                         <div class="video-play-wrap position-relative d-inline-block">
@@ -54,7 +54,7 @@
                                         </div>
                                         <span class="d-inline-block f-700 black-color pl-22">Play Video</span>
                                     </a>
-                                </div><!-- /video-player-btn -->
+                                </div><!-- /video-player-btn --> --}}
                             </div>
                         </div><!-- /col -->
                         <div class="col-xl-6 col-lg-6  col-md-6  col-sm-12 col-12  d-flex align-items-center ">
@@ -101,7 +101,7 @@
                                 <div
                                     class="single-f-counter white-bg transition5 pt-35 pb-35 mb-30 d-flex d-sm-block d-md-flex align-items-center justify-content-center">
                                     <div class="f-count pr-20">
-                                        <span class="f-700 d-inline-block counter">190</span><span
+                                        <span class="f-700 d-inline-block counter">80</span><span
                                             class="d-inline-block f-700">+</span>
                                     </div>
                                     <p class="black-color f-700 mb-0">Direct
@@ -113,7 +113,7 @@
                                     class="single-f-counter white-bg transition5 pt-35 pb-35 mb-30 d-flex d-sm-block d-md-flex align-items-center justify-content-center">
                                     <div class="f-count pr-20">
                                         <span class="f-700 d-inline-block counter">2</span><span
-                                            class="d-inline-block f-700">M</span>
+                                            class="d-inline-block f-700">K</span>
                                     </div>
                                     <p class="black-color f-700 mb-0">Active Install</p>
                                 </div>
@@ -146,16 +146,18 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                         <div class="about-content" data-aos="fade-up" data-aos-duration="2000">
                             <div class="about-text">
-                                <h6 class="f-400 mb-30">Phasellus seiusmod tempor incididunt ut labore et dolore magna
-                                    aliqud minim veniam</h6>
+                                <h6 class="f-400 mb-30">HexaForge Technologies is an embodiment of visionary leadership,
+                                    where innovation meets expertise.</h6>
 
-                                <p class="mb-25">Bole nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-                                    eu fugiat nua. </p>
+                                <p class="mb-25">As the driving force behind HexaForge, our founder brings a profound
+                                    understanding of the evolving tech landscape, steering the company towards
+                                    groundbreaking solutions. </p>
 
-                                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                    commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat </p>
+                                <p>Our founder, a seasoned professional, has cultivated a dynamic environment dedicated to
+                                    shaping the future of technology solutions. At HexaForge, we believe in transcending
+                                    boundaries and redefining possibilities. Our team, underpinned by a commitment to
+                                    excellence, works tirelessly to transform challenges into opportunities, ensuring your
+                                    business thrives in the digital realm. </p>
 
                                 <div class="btn-2 d-lg-none d-block pt-80 mb-20" data-aos="fade-up"
                                     data-aos-duration="2000" data-aos-delay="40">
@@ -208,26 +210,26 @@
                             </div><!-- /ser-icon -->
                             <div class="service-text text-center">
                                 <h5 class="f-700 mb-25">Creative Design</h5>
-                                <p>Ovitae purus soda duis eu ers auctor augue ultricies</p>
+                                <p>Innovate Your Vision with Creative Design Excellence.</p>
 
                                 <ul class="service-list d-inline-block mt-1">
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Web Design</a>
+                                        <a class="black-color" href="#">Web Design</a>
                                     </li>
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Graphic Design</a>
+                                        <a class="black-color" href="#">App Design</a>
                                     </li>
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Branding</a>
+                                        <a class="black-color" href="#">Branding</a>
                                     </li>
                                 </ul>
                             </div>
@@ -240,27 +242,27 @@
                                 <img src="images/icon/gear-1.png" alt="image">
                             </div><!-- /ser-icon -->
                             <div class="service-text text-center">
-                                <h5 class="f-700 mb-25">Creative Design</h5>
-                                <p>Ovitae purus soda duis eu ers auctor augue ultricies</p>
+                                <h5 class="f-700 mb-25">Better Implementation</h5>
+                                <p>Turning Ideas into Reality with Better Implementation.</p>
 
                                 <ul class="service-list d-inline-block mt-1">
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Web Design</a>
+                                        <a class="black-color" href="#">Refinement</a>
                                     </li>
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Graphic Design</a>
+                                        <a class="black-color" href="#">Excellence</a>
                                     </li>
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Branding</a>
+                                        <a class="black-color" href="#">Seamless Execution</a>
                                     </li>
                                 </ul>
                             </div>
@@ -273,27 +275,27 @@
                                 <img src="images/icon/gear-1.png" alt="image">
                             </div><!-- /ser-icon -->
                             <div class="service-text text-center">
-                                <h5 class="f-700 mb-25">Creative Design</h5>
-                                <p>Ovitae purus soda duis eu ers auctor augue ultricies</p>
+                                <h5 class="f-700 mb-25">Perfect Deployment</h5>
+                                <p>Seamless Solutions, Perfect Deployment, Your Success Ensured.</p>
 
                                 <ul class="service-list d-inline-block mt-1">
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Web Design</a>
+                                        <a class="black-color" href="#">Precision</a>
                                     </li>
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Graphic Design</a>
+                                        <a class="black-color" href="#">Efficiency</a>
                                     </li>
                                     <li class="black-color f-700  d-flex justify-content-start align-items-center">
                                         <span class="d-inline-block pr-15 theme-color">
                                             <i class="fal fa-long-arrow-right"></i>
                                         </span>
-                                        <a class="black-color" href="/service">Branding</a>
+                                        <a class="black-color" href="#">Seamlessness</a>
                                     </li>
                                 </ul>
                             </div>
@@ -324,7 +326,7 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div class="single-portfolio position-relative zoom-img-hover over-hidden mb-30">
                                 <div class="single-product over-hidden">
-                                    <img class="img-transition5" src="images/product/home4-product-img1.jpg"
+                                    <img class="img-transition5" src="images/img1.jpeg"
                                         alt="image">
                                     <div class="port-content text-center position-absolute transition5 z-index11">
                                         <span class="theme-color d-inline-block" data-toggle="modal"
@@ -344,7 +346,7 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div class="single-portfolio position-relative zoom-img-hover over-hidden mb-30">
                                 <div class="single-product over-hidden">
-                                    <img class="img-transition5" src="images/product/home4-product-img2.jpg"
+                                    <img class="img-transition5" src="images/img2.jpeg"
                                         alt="image">
                                     <div class="port-content text-center position-absolute transition5 z-index11">
                                         <span class="theme-color d-inline-block" data-toggle="modal"
@@ -364,7 +366,7 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div class="single-portfolio position-relative zoom-img-hover over-hidden mb-30">
                                 <div class="single-product over-hidden">
-                                    <img class="img-transition5" src="images/product/home4-product-img3.jpg"
+                                    <img class="img-transition5" src="images/img3.jpeg"
                                         alt="image">
                                     <div class="port-content text-center position-absolute transition5 z-index11">
                                         <span class="theme-color d-inline-block" data-toggle="modal"
@@ -782,8 +784,8 @@
                             <div class="title">
                                 <h3 class="f-700 mb-40">Top Features that Keep Us Ahed</h3>
                                 <p>
-                                    Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                                    veniam</p>
+                                    Explore the pinnacle of innovation with top-tier features that set us apart and keep you
+                                    ahead in the digital landscape.</p>
                             </div><!-- /title -->
                             <ul class="service-text mt-40 align-items-start">
                                 <li>
@@ -795,8 +797,8 @@
                                         </div><!-- /ser-icon -->
                                         <div class="service-text">
                                             <h6 class="f-700 pb-10">Developer Friendly Design</h6>
-                                            <p>Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqu ad minim
-                                                veniam</p>
+                                            <p>Experience unparalleled ease and efficiency with our developer-friendly
+                                                design, crafted to empower and enhance your coding journey</p>
                                         </div>
                                     </div><!-- /single-service -->
                                 </li>
@@ -809,8 +811,9 @@
                                         </div><!-- /ser-icon -->
                                         <div class="service-text">
                                             <h6 class="f-700 pb-10">Best User Experience</h6>
-                                            <p>Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqu ad minim
-                                                veniam</p>
+                                            <p>Elevate your digital journey with our commitment to delivering the best user
+                                                experience, ensuring seamless interactions and unparalleled satisfaction.
+                                            </p>
                                         </div>
                                     </div><!-- /single-service -->
                                 </li>
@@ -834,7 +837,8 @@
                         <div class="col-xl-9 col-lg-9  col-md-12 col-sm-12 col-12">
                             <div class="banner-content">
                                 <h4 class="f-700 mb-20">Get a quote for your next project</h4>
-                                <p class="mb-0">Phasellus seiusmod tempor incididunt </p>
+                                <p class="mb-0">Unlock success with a tailored quote for your next project, where
+                                    innovation meets your unique vision.</p>
                             </div><!-- /work-banner-content -->
                         </div><!-- /col -->
                         <div class="col-xl-3 col-lg-3  col-md-12 col-sm-12 col-12">
@@ -859,8 +863,7 @@
                             <div class="title">
                                 <span class="theme-color f-700">All service included</span>
                                 <h3 class="f-700 pb-30">Lifetime support and free updates</h3>
-                                <p>Phasellus seiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                                    veniam</p>
+                                <p>Experience peace of mind with our commitment to lifetime support and free updates, ensuring your solution evolves seamlessly with your needs.</p>
                             </div><!-- /title -->
                             <div class="row">
                                 <div class="col-xl-6 col-lg-6  col-md-6  col-sm- col- pr-lg-0">
@@ -919,15 +922,15 @@
                     <div class="col-xl-5 col-lg-6 col-md-12 col-sm-12 col-12">
                         <div class="home4-feature-product-content pt-50" data-aos="fade-up" data-aos-duration="2000">
                             <div class="title">
-                                <span class="theme-color f-700">Get our app now </span>
-                                <h4 class="f-700 pb-10">Our toap product that keep you ahed</h4>
-                                <p>Phasellus seiusmod tempor incididunt</p>
+                                <span class="theme-color f-700">Explore Our Website</span>
+                                <h4 class="f-700 pb-10">Top-notch Solutions That Keep You Ahead</h4>
+                                <p>Discover the best in web services for a seamless online experience.</p>
                             </div><!-- /title -->
                             <div class="my-btn pt-20 mb-1">
-                                <a href="/service" class="btn theme-bg text-capitalize">Get it now</a>
+                                <a href="/service" class="btn theme-bg text-capitalize">Explore Now</a>
                             </div><!-- /my-btn -->
                         </div><!-- /feature-content -->
-                    </div><!-- /col -->
+                    </div><!-- /col -->                    
                 </div><!-- /row -->
             </div><!-- /container -->
         </div>
@@ -949,13 +952,12 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo1.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo1.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">HexaForge Technologies exceeded my expectations in web development. Their team demonstrated exceptional expertise, delivering a sleek and highly functional website. Kudos to them for a job well done!</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Nayna Eva</h6>
+                                    <h6 class="f-700 mb-1">Aarav Sharma</h6>
                                     <p class="mb-0">Journalist</p>
                                 </div>
                                 <div class="quit d-inline-block">
@@ -966,14 +968,13 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo2.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo2.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">HexaForge Technologies understands the importance of a seamless user experience. Their UI/UX design transformed our platform, making it not only visually appealing but also incredibly user-friendly. Exceptional work!</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Adam Smith</h6>
-                                    <p class="mb-0">Journalist</p>
+                                    <h6 class="f-700 mb-1">Ananya Singh</h6>
+                                    <p class="mb-0"> Owner of an Eco-Friendly Boutique</p>
                                 </div>
                                 <div class="quit d-inline-block">
                                     <span class="theme-color d-inline-block"><i class="fas fa-quote-right"></i></span>
@@ -983,14 +984,13 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo3.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo3.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">HexaForge Technologies' image processing solutions are unparalleled. They effortlessly handled complex image data, delivering crisp and optimized results. I'm impressed with their technical acumen.</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Juwel Khan</h6>
-                                    <p class="mb-0">Journalist</p>
+                                    <h6 class="f-700 mb-1">Rohan Patel</h6>
+                                    <p class="mb-0">Owner of an Eco-Friendly Boutique</p>
                                 </div>
                                 <div class="quit d-inline-block">
                                     <span class="theme-color d-inline-block"><i class="fas fa-quote-right"></i></span>
@@ -1000,14 +1000,13 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo1.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo1.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">The computer vision capabilities of HexaForge Technologies are groundbreaking. Their implementation enhanced our project with intelligent and perceptive features. Remarkable work in the field of computer vision!</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Nayna Eva</h6>
-                                    <p class="mb-0">Journalist</p>
+                                    <h6 class="f-700 mb-1">Emily Thompson</h6>
+                                    <p class="mb-0">Marketing Manager</p>
                                 </div>
                                 <div class="quit d-inline-block">
                                     <span class="theme-color d-inline-block"><i class="fas fa-quote-right"></i></span>
@@ -1017,14 +1016,13 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo2.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo2.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">HexaForge Technologies leveraged machine learning to perfection. Their algorithms demonstrated accuracy and efficiency, significantly improving our system's performance. Truly a leader in machine learning solutions.</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Juwel Khan</h6>
-                                    <p class="mb-0">Journalist</p>
+                                    <h6 class="f-700 mb-1">Isabella Rodriguez</h6>
+                                    <p class="mb-0">Founder of a Sustainable Fashion Brand</p>
                                 </div>
                                 <div class="quit d-inline-block">
                                     <span class="theme-color d-inline-block"><i class="fas fa-quote-right"></i></span>
@@ -1038,7 +1036,7 @@
         <!-- testimonial-area-end  -->
 
         <!-- ====== blog-area-start=========================================== -->
-        <div class="blog-area home4 primary-bg pt-170 pb-140">
+        {{-- <div class="blog-area home4 primary-bg pt-170 pb-140">
             <div class="container">
                 <div class="row align-items-start">
                     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
@@ -1091,10 +1089,8 @@
                     </div><!-- /col -->
                 </div><!-- /row -->
             </div><!-- /container -->
-        </div>
+        </div> --}}
         <!-- blog-area-end -->
 
     </main>
 @endsection
-
-

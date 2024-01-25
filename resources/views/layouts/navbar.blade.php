@@ -33,12 +33,12 @@
                                         <li class="full-mega-menu-position"><a class="active" href="/">Home</a>
                                         </li>
                                         <li><a href="/about">About</a></li>
-                                        <li><a href="/service">Service</a>
+                                        {{-- <li><a href="/service">Service</a> --}}
                                             {{-- <ul class="mega-menu mega-dropdown-menu white-bg ml-0">
                                                 <li><a href="/service">Service</a></li>
                                                 <li><a href="login.html">Login</a></li>
                                             </ul> --}}
-                                        </li>
+                                        {{-- </li> --}}
                                         <!-- <li class="full-mega-menu-position"><a href="#">pages</a>
                                             <ul class="mega-menu full-mega-menu full-mega-menu2 d-lg-flex white-bg pl-35 pt-30 pr-25 pb-20">
                                                 <li>
@@ -230,7 +230,7 @@
                                             </li>
                                             <li class="d-inline-block">
                                                 <a class="instagram-color text-center d-inline-block transition-3"
-                                                    href="linkedin"><i class="fab fa-instagram"></i></a>
+                                                    href="https://www.instagram.com/hexaforgetechnologies/" target="_blank"><i class="fab fa-instagram"></i></a>
                                             </li>
                                         </ul><!-- social-link -->
                                         <div class="d-block d-lg-none pl-3">
