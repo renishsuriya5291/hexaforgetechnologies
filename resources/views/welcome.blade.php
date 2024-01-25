@@ -328,16 +328,16 @@
                                 <div class="single-product over-hidden">
                                     <img class="img-transition5" src="images/img1.jpeg"
                                         alt="image">
-                                    <div class="port-content text-center position-absolute transition5 z-index11">
+                                    {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                         <span class="theme-color d-inline-block" data-toggle="modal"
                                             data-target="#exampleModal-p1"><i class="far fa-external-link-alt"></i>
                                         </span>
-                                    </div><!-- /port-content -->
+                                    </div><!-- /port-content --> --}}
                                 </div><!-- /single-product -->
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">
-                                        <a class="text-white" href="blog-details.html">Website Development for
+                                        <a class="text-white" href="#">Website Development for
                                             HexaForgeTechnologies Corporation</a>
                                     </h3>
                                 </div><!-- /single-over -->
@@ -348,16 +348,16 @@
                                 <div class="single-product over-hidden">
                                     <img class="img-transition5" src="images/img2.jpeg"
                                         alt="image">
-                                    <div class="port-content text-center position-absolute transition5 z-index11">
+                                    {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                         <span class="theme-color d-inline-block" data-toggle="modal"
                                             data-target="#exampleModal-p2"><i class="far fa-external-link-alt"></i>
                                         </span>
-                                    </div><!-- /port-content -->
+                                    </div><!-- /port-content --> --}}
                                 </div><!-- /single-product -->
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">
-                                        <a class="text-white" href="blog-details.html">When the musics over turn off the
+                                        <a class="text-white" href="#">When the musics over turn off the
                                             light</a>
                                     </h3>
                                 </div><!-- /single-over -->
@@ -368,16 +368,16 @@
                                 <div class="single-product over-hidden">
                                     <img class="img-transition5" src="images/img3.jpeg"
                                         alt="image">
-                                    <div class="port-content text-center position-absolute transition5 z-index11">
+                                    {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                         <span class="theme-color d-inline-block" data-toggle="modal"
                                             data-target="#exampleModal-p3"><i class="far fa-external-link-alt"></i>
                                         </span>
-                                    </div><!-- /port-content -->
+                                    </div><!-- /port-content --> --}}
                                 </div><!-- /single-product -->
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">
-                                        <a class="text-white" href="blog-details.html">When the musics over turn off the
+                                        <a class="text-white" href="#">When the musics over turn off the
                                             light</a>
                                     </h3>
                                 </div><!-- /single-over -->
@@ -844,7 +844,7 @@
                         <div class="col-xl-3 col-lg-3  col-md-12 col-sm-12 col-12">
                             <div class="banner-btn float-left float-lg-right">
                                 <div class="my-btn">
-                                    <a href="contact.html" class="btn theme-bg text-capitalize f-18 f-700">contact us</a>
+                                    <a href="/contact" class="btn theme-bg text-capitalize f-18 f-700">contact us</a>
                                 </div><!-- /my-btn -->
                             </div><!-- /work-banner-content -->
                         </div><!-- /col -->
@@ -896,7 +896,7 @@
                                 </div><!-- /col -->
                             </div><!-- /row -->
                             <div class="my-btn pt-40 pb-20">
-                                <a href="login.html" class="btn theme-bg text-capitalize">Get Started</a>
+                                <a href="/contact" class="btn theme-bg text-capitalize">Get Started</a>
                             </div><!-- /my-btn -->
                         </div><!-- /feature-content -->
                     </div><!-- /col -->

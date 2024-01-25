@@ -45,11 +45,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui1.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p1"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">Website Development for eThemeStudio Corporation</h3>
@@ -198,11 +198,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui2.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p2"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -353,11 +353,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui3.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p3"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -508,11 +508,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui4.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p4"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -663,11 +663,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui5.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p5"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -818,11 +818,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui6.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p6"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -970,11 +970,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui7.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p8"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -1122,11 +1122,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui8.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p7"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -1277,11 +1277,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item creative-design ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/ui9.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -1433,11 +1433,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/home_1.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -1589,11 +1589,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/uiui.png" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -1744,11 +1744,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/movie.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -1899,11 +1899,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/haha.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -2054,11 +2054,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/codesync.PNG" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -2209,11 +2209,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/rtc.png" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -2365,11 +2365,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/contact.png" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -2521,11 +2521,11 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 grid-item dev ">
                             <div class="single-portfolio position-relative over-hidden mb-30">
                                 <img class="w-100" src="images/chat.png" alt="image">
-                                <div class="port-content text-center position-absolute transition5 z-index11">
+                                {{-- <div class="port-content text-center position-absolute transition5 z-index11">
                                     <span class="theme-color d-inline-block" data-toggle="modal"
                                         data-target="#exampleModal-p9"><i class="far fa-external-link-alt"></i>
                                     </span>
-                                </div><!-- /port-content -->
+                                </div><!-- /port-content --> --}}
                                 <div class="port-over-content position-absolute left-0 pl-40 pr-40 pb-30 pt-40 z-index11">
                                     <span class="text-white f-700 mb-2 d-block text-uppercase">Web Design</span>
                                     <h3 class="text-white">When the musics over turn off the light</h3>
@@ -2682,7 +2682,7 @@
                     <div class="row ">
                         <div class="col-12 d-flex justify-content-center">
                             <div class="my-btn mt-30">
-                                <a href="service.html"
+                                <a href="#"
                                     class="btn transparent-bg primary-border text-capitalize f-18 f-700">view more</a>
                             </div>
                         </div><!-- /col -->
@@ -2717,9 +2717,9 @@
                                     </div><!-- /ser-icon -->
                                     <div class="service-text z-index1">
                                         <h5 class="f-700 pb-15">Creative Design</h5>
-                                        <p class="mb-35">Ovitae purus sodaDuis eu eros auctor augue ultricies bibend um.
-                                            Phasellus semattis tomader majhe kikeu</p>
-                                        <a href="service.html"
+                                        <p class="mb-35">
+                                            Creative design is the artful fusion of imagination and functionality, transforming ideas into visually captivating and purposeful expressions.</p>
+                                        <a href="#"
                                             class="black-color d-inline-block theme-hover position-relative f-700 text-capitalize">view
                                             service
                                             <span class="pl-2"><i class="fal fa-long-arrow-right"></i></span>
@@ -2739,9 +2739,8 @@
                                     </div><!-- /ser-icon -->
                                     <div class="service-text z-index1">
                                         <h5 class="f-700 pb-15">Web Development</h5>
-                                        <p class="mb-35">Ovitae purus sodaDuis eu eros auctor augue ultricies bibend um.
-                                            Phasellus semattis tomader majhe kikeu</p>
-                                        <a href="service.html"
+                                        <p class="mb-35">I excel in web development, crafting seamless and visually appealing online experiences.</p>
+                                        <a href="#"
                                             class="black-color d-inline-block theme-hover position-relative f-700 text-capitalize">view
                                             service
                                             <span class="pl-2"><i class="fal fa-long-arrow-right"></i></span>
@@ -2761,9 +2760,8 @@
                                     </div><!-- /ser-icon -->
                                     <div class="service-text z-index1">
                                         <h5 class="f-700 pb-15">Cyber Consultancy</h5>
-                                        <p class="mb-35">Ovitae purus sodaDuis eu eros auctor augue ultricies bibend um.
-                                            Phasellus semattis tomader majhe kikeu</p>
-                                        <a href="service.html"
+                                        <p class="mb-35">Cyber consultancy involves providing expert advice to enhance digital security and protect against cyber threats.</p>
+                                        <a href="#"
                                             class="black-color d-inline-block theme-hover position-relative f-700 text-capitalize">view
                                             service
                                             <span class="pl-2"><i class="fal fa-long-arrow-right"></i></span>
@@ -2783,9 +2781,9 @@
                                     </div><!-- /ser-icon -->
                                     <div class="service-text z-index1">
                                         <h5 class="f-700 pb-15">Search Engine Optimization</h5>
-                                        <p class="mb-35">Ovitae purus sodaDuis eu eros auctor augue ultricies bibend um.
-                                            Phasellus semattis tomader majhe kikeu</p>
-                                        <a href="service.html"
+                                        <p class="mb-35">
+                                            SEO boosts online visibility and enhances website rankings through strategic content optimization.</p>
+                                        <a href="#"
                                             class="black-color d-inline-block theme-hover position-relative f-700 text-capitalize">view
                                             service
                                             <span class="pl-2"><i class="fal fa-long-arrow-right"></i></span>
@@ -2802,7 +2800,7 @@
 
 
         <!-- ====== testimonial-area-start ==================================== -->
-        <div class="testimonial-area home4 home8 pt-150 pb-145 over-hidden">
+        <div class="testimonial-area home4 pt-150 pb-145 over-hidden">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-6  col-lg-7  col-md-10  col-sm-12 col-12">
@@ -2817,13 +2815,12 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo1.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo1.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">HexaForge Technologies exceeded my expectations in web development. Their team demonstrated exceptional expertise, delivering a sleek and highly functional website. Kudos to them for a job well done!</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Nayna Eva</h6>
+                                    <h6 class="f-700 mb-1">Aarav Sharma</h6>
                                     <p class="mb-0">Journalist</p>
                                 </div>
                                 <div class="quit d-inline-block">
@@ -2834,14 +2831,13 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo2.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo2.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">HexaForge Technologies understands the importance of a seamless user experience. Their UI/UX design transformed our platform, making it not only visually appealing but also incredibly user-friendly. Exceptional work!</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Adam Smith</h6>
-                                    <p class="mb-0">Journalist</p>
+                                    <h6 class="f-700 mb-1">Ananya Singh</h6>
+                                    <p class="mb-0"> Owner of an Eco-Friendly Boutique</p>
                                 </div>
                                 <div class="quit d-inline-block">
                                     <span class="theme-color d-inline-block"><i class="fas fa-quote-right"></i></span>
@@ -2851,14 +2847,13 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo3.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo3.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">HexaForge Technologies' image processing solutions are unparalleled. They effortlessly handled complex image data, delivering crisp and optimized results. I'm impressed with their technical acumen.</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Juwel Khan</h6>
-                                    <p class="mb-0">Journalist</p>
+                                    <h6 class="f-700 mb-1">Rohan Patel</h6>
+                                    <p class="mb-0">Owner of an Eco-Friendly Boutique</p>
                                 </div>
                                 <div class="quit d-inline-block">
                                     <span class="theme-color d-inline-block"><i class="fas fa-quote-right"></i></span>
@@ -2868,14 +2863,13 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo1.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo1.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">The computer vision capabilities of HexaForge Technologies are groundbreaking. Their implementation enhanced our project with intelligent and perceptive features. Remarkable work in the field of computer vision!</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Nayna Eva</h6>
-                                    <p class="mb-0">Journalist</p>
+                                    <h6 class="f-700 mb-1">Emily Thompson</h6>
+                                    <p class="mb-0">Marketing Manager</p>
                                 </div>
                                 <div class="quit d-inline-block">
                                     <span class="theme-color d-inline-block"><i class="fas fa-quote-right"></i></span>
@@ -2885,14 +2879,13 @@
                         <div class="col-xl-4 col-lg-7 col-md-12  col-sm-12 col-12">
                             <div
                                 class="testimonial-text4 position-relative bg-white pt-50 pb-45 pl-45 pr-45 mb-40 mt-40 transition5">
-                                <img class="mb-25" src="images/testimonial/home4-testi-logo2.png" alt="image">
-                                <p class="font-italic secondary-color3 mb-0">Eolore magna aliqu Lor em ipsum dolor sit
-                                    amet, consecte tur adipisicing elit, sed do eius mod tempor incididunt</p>
+                                {{-- <img class="mb-25" src="images/testimonial/home4-testi-logo2.png" alt="image"> --}}
+                                <p class="font-italic secondary-color3 mb-0">HexaForge Technologies leveraged machine learning to perfection. Their algorithms demonstrated accuracy and efficiency, significantly improving our system's performance. Truly a leader in machine learning solutions.</p>
                             </div><!-- /testimonial-text -->
                             <div class="testi-info d-flex align-items-center justify-content-between mb-20 pl-40 pr-40">
                                 <div class="avatar-info">
-                                    <h6 class="f-700 mb-1">Juwel Khan</h6>
-                                    <p class="mb-0">Journalist</p>
+                                    <h6 class="f-700 mb-1">Isabella Rodriguez</h6>
+                                    <p class="mb-0">Founder of a Sustainable Fashion Brand</p>
                                 </div>
                                 <div class="quit d-inline-block">
                                     <span class="theme-color d-inline-block"><i class="fas fa-quote-right"></i></span>

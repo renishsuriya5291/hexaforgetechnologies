@@ -191,7 +191,7 @@
                         <div class="col-xl-3 col-lg-3  col-md-12 col-sm-12 col-12">
                             <div class="banner-btn float-left float-lg-right">
                                 <div class="my-btn">
-                                    <a href="service.html" class="btn theme-bg text-capitalize f-18 f-700">read more</a>
+                                    <a href="#" class="btn theme-bg text-capitalize f-18 f-700">read more</a>
                                 </div><!-- /my-btn -->
                             </div><!-- /work-banner-content -->
                         </div><!-- /col -->

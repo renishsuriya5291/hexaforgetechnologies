@@ -280,7 +280,7 @@
                                         aliqua. Ut enim ad minim veniam</p>
                                 </div><!-- /title -->
                                 <div class="my-btn mt-47">
-                                    <a href="blog-details.html" class="btn theme-bg text-capitalize f-18 f-700">lets
+                                    <a href="#" class="btn theme-bg text-capitalize f-18 f-700">lets
                                         start</a>
                                 </div><!-- /my-btn -->
                             </div><!-- /service-cta-banner-content -->
