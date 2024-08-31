@@ -293,7 +293,7 @@
         <!-- mobile phone area -->
         <div class="mobile-phone-contact phone-contact mt-150 mb-25">
             <h6 class="f-700 mb-0">Call Us</h6>
-            <a class="theme-color f-700" href="tell:+8801234567890">+917874467710</a>
+            <a class="theme-color f-700" href="tell:+8801234567890">+9190544 33430</a>
         </div><!-- /mobile phone area -->
 
         <!-- mobile subscribe area -->

@@ -101,8 +101,7 @@
                                         <div class="contact-text">
                                             <h4 class="f-700 mb-2">Phone</h4>
                                             <p class="mb-0">
-                                                <a class="secondary-color2 primary-hover d-block" href="#">+91 78744
-                                                    67710</a>
+                                                <a class="secondary-color2 primary-hover d-block" href="#">+91 90544 33430</a>
                                             </p>
                                         </div>
                                     </li><!-- /contact-phone -->

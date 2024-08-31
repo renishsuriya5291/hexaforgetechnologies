@@ -83,7 +83,7 @@
                                  </li>
                                  <li>
                                      <span class="f-icon mr-20"><i class="far fa-phone"></i></span>
-                                     +91 78744 67710
+                                     +91 90544 33430
                                  </li>
                              </ul>
                          </div>
